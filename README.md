@@ -52,12 +52,13 @@ I'm a software engineering student and a full-stack developer building my versio
 </div>
 
 ## 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourEddineRabouane&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NourEddineRabouane's Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NourEddineRabouane&theme=dark&hide_border=true" alt="NourEddineRabouane's Streak" /> -->
+[![NourEddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourEddineRabouane)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NourEddineRabouane&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NourEddineRabouane's Stats" /> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NourEddineRabouane&theme=dark&hide_border=true" alt="NourEddineRabouane's Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourEddineRabouane&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NourEddineRabouane's Top Languages" />
 </p>
+   -->
 
 
 ## 💬 Random Dev Quote
