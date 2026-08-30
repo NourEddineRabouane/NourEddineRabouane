@@ -59,6 +59,7 @@ I'm a software engineering student and a full-stack developer building my versio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourEddineRabouane&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NourEddineRabouane's Top Languages" />
 </p>
    -->
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NourEddineRabouane&theme=dark" alt="GitHub Streak" /></a>
 
 
 ## 💬 Random Dev Quote
