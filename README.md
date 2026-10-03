@@ -52,9 +52,10 @@ I'm a software engineering student and a full-stack developer building my versio
 </div>
 
 ## 📊 My GitHub Stats & Activity
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NourEddineRabouane&theme=dark" alt="GitHub Streak" /></a>
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=NourEddineRabouane&theme=tokyonight" alt="GitHub Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NourEddineRabouane&show_icons=true&theme=tokyonight" alt="NourEddine's GitHub stats" />
+</div>
 
 
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
