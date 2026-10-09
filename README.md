@@ -17,7 +17,7 @@ I'm a software engineering student and a full-stack developer building my versio
   </a> 
 </p>
 
-## 🛠️ My Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 #### Actual Lang & Tools
 <p align="center">
   <a href="https://skillicons.dev">
