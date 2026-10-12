@@ -34,7 +34,7 @@ I'm a software engineering student and a full-stack developer building my versio
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,c,python,nodejs,mongodb,firebase,docker,supabase,redis" />
+    <img src="https://skillicons.dev/icons?i=debian,latex,c,python,nodejs,mongodb,firebase,docker,supabase,redis" />
   </a>
 </p>
 </details>
